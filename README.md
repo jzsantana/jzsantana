@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8ddbe0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Júlia+Santana;I'm+19+years+old;;I+study+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jzsantana&show_icons=true&count_private=true&hide_border=true&title_color=8ddbe0&icon_color=8ddbe0&text_color=ff91a4&bg_color=0d1117" alt="Júlia Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzsantana&layout=compact&hide_border=true&title_color=8ddbe0&text_color=8ddbe0&bg_color=0d1117" />
-</div>
+  <img src="https://camo.githubusercontent.com/b74d646afe77222676c072c2ba9e57097466aead713a29b44265eb62099dd908/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6174686575734170726967696f3131266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266c6f63616c653d656e" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzsantana&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" style="max-width: 100%;">
