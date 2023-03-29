@@ -2,3 +2,4 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jzsantana&show_icons=true&count_private=true&hide_border=true&title_color=8ddbe0&icon_color=8ddbe0&text_color=ff91a4&bg_color=0d1117" alt="Júlia Santana github stats" /> 
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzsantana&layout=compact&theme=tokyonight&hide_border=true&locale=en">
