@@ -10,7 +10,7 @@
   - 🎓 I'm currently studying Systems development.
   - 💻 I'm interested in front-end web development.
   - ⚡ Fun fact: i LOVE music.
-  - 💜 Interests: books, travel, internet culture.
+  - 💜 Interests: books, travel, internet culture, dance.
 
 <br>
   <div align="left">
