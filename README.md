@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8ddbe0&size=35&center=true&vCenter=true&width=1000&lines=Hi+i'm+Julia!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8ddbe0&size=35&center=true&vCenter=true&width=1000&lines=Hi+i'm+Júlia!+:%29)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" height="360px" width="360px" alt="GIF" src="https://github.com/jzsantana/jzsantana/assets/126926115/c7a76b60-02fe-4504-a558-72c9cfa64a03" > 
