@@ -18,7 +18,6 @@
 	<p>
   		<a>
 			<img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,js,react,mysql,git&perline=6" width="35%" height="35%"/>
-
   		</a>
 	</p>
 </div>
