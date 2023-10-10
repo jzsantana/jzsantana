@@ -17,7 +17,8 @@
       <h3>Languages and tools</h3>
 	<p>
   		<a>
-    			<img src="https://skillicons.dev/icons?i=py,js,java,react,html,css,github,mysql,c,django&perline=6" width="35%" height="35%"/>
+			<img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,js,react,mysql,git&perline=6" width="35%" height="35%"/>
+
   		</a>
 	</p>
 </div>
