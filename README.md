@@ -6,7 +6,7 @@
 <h3>About me</h3>
 
 
-  - 📚 I’m currently learning React and ReactNative.
+  - 📚 I’m currently learning Typescript, React and ReactNative.
   - 🎓 I'm currently studying Systems development.
   - 💻 I'm interested in front-end web development.
   - ⚡ Fun fact: i LOVE music.
