@@ -1,38 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8ddbe0&size=35&center=true&vCenter=true&width=1000&lines=Hi+i'm+Júlia!+:%29)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="right" height="360px" width="360px" alt="GIF" src="https://github.com/jzsantana/jzsantana/assets/126926115/c7a76b60-02fe-4504-a558-72c9cfa64a03" > 
  
-<h3>About me</h3>
-
-
-  - 📚 I’m currently learning Typescript, React and ReactNative.
-  - 🎓 I'm currently studying Systems development.
-  - 💻 I'm interested in front-end web development.
-  - ⚡ Fun fact: i LOVE music.
-  - 💜 Interests: books, travel, internet culture, dance.
-
-<br>
-  <div align="left">
-      <h3>Languages and tools</h3>
-	<p>
-  		<a>
-			<img src="https://skillicons.dev/icons?i=py,java,c,django,html,css,js,react,mysql,git&perline=6" width="35%" height="35%"/>
-  		</a>
-	</p>
-</div>
-  
-<br>
-<br>
-<br>
-
-
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+<hr/>
 <div align="center">
-  <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jzsantana&show_icons=true&count_private=true&hide_border=true&title_color=2448AA&icon_color=785692&text_color=2283A2&bg_color=0d1117" alt="Júlia Santana github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzsantana&layout=compact&hide_border=true&title_color=2448AA&text_color=2283A2&bg_color=0d1117" />
-   </div>
- </div>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jzsantana&show_icons=true&count_private=true&hide_border=true&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117" alt="Kethelyn Santos github stats" /> 
+ <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=jzsantana&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=FFA1FF&icon_color=a07dce&text_color=a1ebe8&bg_color=0d1117&ring=FFA1FF&fire=a1ebe8&currStreakLabel=FFA1FF&currStreakNum=a1ebe8&sideNums=a1ebe8&sideLabels=FFA1FF&background=0d1117&dates=a1ebe8" />
+
+</div>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
